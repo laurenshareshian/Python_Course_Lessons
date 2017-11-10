@@ -4,7 +4,7 @@ Each unit typically follows this format:
 
 The students have approximately one week to work through the assignment module at their own pace.
 
-Then they work on a tricky problem set together.
+Then they work on a trickier problem set together.
 
 Then they take a fairly straightforward quiz individually.
 
@@ -15,3 +15,6 @@ To write these units, I drew on inspiration from:
 3. Grok Learning: https://groklearning.com/ 
 4. Michael Kennedy's Talk Python To Me Courses: https://training.talkpython.fm/courses
 5. Allen Downey's Think Stats book: http://greenteapress.com/thinkstats/
+
+
+As we finish each unit this year and I work out the kinks, I will move the unit from "Rough Draft" to the main page.
