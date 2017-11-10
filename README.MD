@@ -1,4 +1,4 @@
-These are Jupyter Notebook lessons that I'll be using to teach Python at my high school. They are a work in progress. Originally, I put these up on a web server so that my students could access them at www.portlandpython.com . Thanks to Jess Hamrick for her description of how to do it here: https://developer.rackspace.com/blog/deploying-jupyterhub-for-education/  and for her repo https://github.com/jupyterhub/jupyterhub-deploy-teaching. However, I have been using www.cocalc.com this year for student access and it has been working pretty well (it does get buggy sometimes.) 
+These are Jupyter Notebook lessons that I'll be using to teach Python at my Oregon Episcopal School. They are a work in progress. Originally, I put these up on a web server so that my students could access them at www.portlandpython.com . Thanks to Jess Hamrick for her description of how to do it here: https://developer.rackspace.com/blog/deploying-jupyterhub-for-education/  and for her repo https://github.com/jupyterhub/jupyterhub-deploy-teaching. However, I have been using www.cocalc.com this year for student access and it has been working pretty well (it does get buggy sometimes.) 
 
 Each unit typically follows this format:
 
@@ -9,8 +9,8 @@ Then they work on a tricky problem set together.
 Then they take a fairly straightforward quiz individually.
 
 
-To write these modules, I drew on inspiration from:
-1. Chuck Severance's'open resource book: https://www.py4e.com/book.php
+To write these units, I drew on inspiration from:
+1. Chuck Severance's open resource book: https://www.py4e.com/book.php
 2. Eric Matthes' Intro to Programming Notebooks: https://github.com/ehmatthes/intro_programming
 3. Grok Learning: https://groklearning.com/ 
 4. Michael Kennedy's Talk Python To Me Courses: https://training.talkpython.fm/courses
