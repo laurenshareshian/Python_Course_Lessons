@@ -17,4 +17,4 @@ To write these units, I drew on inspiration from:
 5. Allen Downey's Think Stats book: http://greenteapress.com/thinkstats/
 
 
-As  we finish each unit this year and I work out the kinks, I will move the unit from "Rough Draft" to the main page.
+As we finish each unit this year and I work out the kinks, I will move the unit from "Rough Draft" to the main page.
