@@ -6,7 +6,7 @@ The students have approximately one week to work through the assignment module a
 
 Then they work on a trickier problem set together.
 
-Then they take a fairly straightforward quiz individually.
+Then they take a quiz (for the earlier units) or do a project (for the later units).
 
 
 To write these units, I drew on inspiration from:
