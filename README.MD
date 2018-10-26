@@ -1,4 +1,4 @@
-These are Jupyter Notebook lessons that I've to teach Python at Oregon Episcopal School. They are a work in progress. You can run these locally if you download Anaconda or you can distribute them to students via the web through Google's Colaboratory or CoCalc (related to SageMath). 
+These are Jupyter Notebook lessons that I've used to teach Python at Oregon Episcopal School. They are a work in progress. You can run these locally if you download Anaconda or you can distribute them to students via the web through Google's Colaboratory or CoCalc (related to SageMath). 
 
 Each unit typically follows this format:
 
