@@ -1,4 +1,4 @@
-These are Jupyter Notebook lessons that I'll be using to teach Python at my Oregon Episcopal School. They are a work in progress. Originally, I put these up on a web server so that my students could access them at www.portlandpython.com . Thanks to Jess Hamrick for her description of how to do it here: https://developer.rackspace.com/blog/deploying-jupyterhub-for-education/  and for her repo https://github.com/jupyterhub/jupyterhub-deploy-teaching. However, I have been using www.cocalc.com this year for student access and it has been working pretty well (it does get buggy sometimes.) 
+These are Jupyter Notebook lessons that I've to teach Python at Oregon Episcopal School. They are a work in progress. You can run these locally if you download Anaconda or you can distribute them to students via the web through Google's Colaboratory or CoCalc (related to SageMath). 
 
 Each unit typically follows this format:
 
@@ -16,5 +16,4 @@ To write these units, I drew on inspiration from:
 4. Michael Kennedy's Talk Python To Me Courses: https://training.talkpython.fm/courses
 5. Allen Downey's Think Stats book: http://greenteapress.com/thinkstats/
 
-
-As we finish each unit this year and I work out the kinks, I will move the unit from "Rough Draft" to the main page.
+You can also view the materials for the week-long workshop I taught at Exeter Academy for incorporating Python into the math classroom [here](https://github.com/laurenshareshian/Python_For_Math_Teachers). 
