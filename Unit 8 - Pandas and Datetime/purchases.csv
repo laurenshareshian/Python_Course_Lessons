@@ -1,9 +1,0 @@
-userid       ,product        ,price,country code,website,date
-Mark,paper towels,20,1,Amazon,1/12/15
-Mark,stickers,2,1,Amazon,1/8/15
-Mark,dog food,25,1,NewEgg,1/6/15
-Jane,stickers,3,5,NewEgg,1/8/15
-Jane,dog food,30,5,NewEgg,1/5/16
-Steve,paper towels,24,2,Amazon,1/4/15
-Steve,speakers,60,2,Amazon,1/8/15
-Steve,dog food,28,2,Amazon,1/6/15

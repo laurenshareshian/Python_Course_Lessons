@@ -1,0 +1,13 @@
+sport      ,team     ,reg fee    ,transportation,date
+soccer,v,200,100,9/1/17
+soccer,v,500,50,9/7/17
+soccer,v,0,0,10/1/17
+soccer,jv,100,0,10/1/17
+soccer,jv,100,50,10/15/17
+lacrosse,v,100,200,9/1/17
+lacrosse,v,150,100,9/7/17
+lacrosse,v,500,0,10/1/17
+lacrosse,jv,100,0,10/1/17
+tennis,v,50,100,9/1/17
+tennis,v,100,0,9/7/17
+tennis,v,50,50,10/1/17
