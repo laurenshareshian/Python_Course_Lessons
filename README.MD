@@ -15,5 +15,7 @@ To write these units, I drew on inspiration from:
 3. Grok Learning: https://groklearning.com/ 
 4. Michael Kennedy's Talk Python To Me Courses: https://training.talkpython.fm/courses
 5. Allen Downey's Think Stats book: http://greenteapress.com/thinkstats/
+6. Jake Vanderplas' Python Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/
+
 
 You can also view the materials for the week-long workshop I taught at Exeter Academy for incorporating Python into the math classroom [here](https://github.com/laurenshareshian/Python_For_Math_Teachers). 
