@@ -7,7 +7,7 @@ def multiplyRandom(numbers):
     pass
 
 def main():
-	print(multiplyRandom(getNRandom(10))
+	print(multiplyRandom(getNRandom(10)))
 
 if __name__ == "__main__":
 	main()
